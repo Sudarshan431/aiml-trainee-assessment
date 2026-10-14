@@ -5,6 +5,7 @@ from pathlib import Path
 import requests
 
 
+
 #configuration
 API_URL = "https://openlibrary.org/search.json"
 SEARCH_QUERY = "python programming"
