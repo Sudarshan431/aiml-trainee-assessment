@@ -110,7 +110,7 @@ Conversation history is bounded by message count and an approximate token budget
 
 **Sudarshan Mali — System Design and Implementation**
 
-I designed the system and developed CareerIQ in phases, using Claude Code as an AI pair-programmer.
+I designed the system and developed CareerIQ in phases.
 
 - Built the NLP/ML engine for job matching, skill-gap analysis, recommendations, and training and evaluation scripts.
 - Developed the backend foundation, including structured error handling, PostgreSQL integration, database migrations, and JWT-based role access.
